@@ -1,0 +1,11 @@
+{
+  "name": "gobe-grocer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
